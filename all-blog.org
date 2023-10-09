@@ -5,9 +5,13 @@
 #+STARTUP: logdrawer
 
 * Blog Ideas
-** TODO 测试一下
+** DONE 测试一下
+CLOSED: [2023-10-09 一 14:50]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 测试一下
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-09 一 14:50]
 :END:
 
 *** heading1
