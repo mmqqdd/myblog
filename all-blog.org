@@ -21,3 +21,16 @@ CLOSED: [2023-10-09 一 14:50]
 4134344
 +hugo_custom_front_matter: :author "mengqiangding"
 *** heading3
+** DONE Second Test blog
+CLOSED: [2023-10-09 一 14:55]
+:PROPERTIES:
+:EXPORT_FILE_NAME: second-test-blog
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-09 一 14:55]
+:END:
+
+*** heading1
+123
+*** heading2
+321
