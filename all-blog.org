@@ -1,0 +1,19 @@
+#+hugo_base_dir: /Users/mengqiangding/study/blog/
+#+hugo_section: post
+#+hugo_auto_set_lastmod: t
+#+hugo_code_fence: nil
+#+STARTUP: logdrawer
+
+* Blog Ideas
+** TODO 测试一下
+:PROPERTIES:
+:EXPORT_FILE_NAME: 测试一下
+:END:
+
+*** heading1
+
+*** heading2
+
+4134344
++hugo_custom_front_matter: :author "mengqiangding"
+*** heading3
